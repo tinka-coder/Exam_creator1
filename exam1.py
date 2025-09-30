@@ -65,7 +65,6 @@ def save_to_word(text):
     return buffer
 
 
-# ---------------------------
 # Streamlit UI
 # ---------------------------
 st.set_page_config(page_title="Exam Generator", page_icon="📘")
