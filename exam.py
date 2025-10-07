@@ -28,8 +28,8 @@ A contradiction is always false regardless of truth values.
 # ---------------------------
 exam_structure = """
 Set an exam with the following structure:
-- 30 multiple choice questions (1 mark each)
-- 40 short answer questions (5 marks each)
+- 10 multiple choice questions (1 mark each)
+- 20 short answer questions (5 marks each)
 - 20 essay question (10 marks)
 Provide a marking guide with expected answers and marks allocation.
 """
