@@ -35,7 +35,7 @@ def generate_exam(notes):
     Set an exam with the following structure:
     - 20 multiple choice questions (1 mark each)
     - 40 short answer questions (5 marks each)
-    - 20 essay question (10 marks)
+    - 30 essay question (10 marks)
     Provide a marking guide with expected answers and marks allocation.
     """
 
