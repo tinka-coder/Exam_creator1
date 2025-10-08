@@ -23,12 +23,12 @@ print(df.tail())
 data_shape=df.shape
 print(data_shape)
 
-print(df.isnull().sum)     #check missing values
-print(df.dropna(inplace=True))  #drop rows with Nan
-print(df.fillna(0,inplace=True))  #fill Nan with 0
+#print(df.isnull().sum)     #check missing values
+#print(df.dropna(inplace=True))  #drop rows with Nan
+#print(df.fillna(0,inplace=True))  #fill Nan with 0
 
-print(df.duplicated().sum())
-print(df.drop_duplicates(inplace=True))
+#print(df.duplicated().sum())
+#print(df.drop_duplicates(inplace=True))
 
 
 
